@@ -1,0 +1,104 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:porkchop": 3,
+      "minecraft:lime_bed": 1,
+      "minecraft:stick": 52,
+      "minecraft:cobblestone": 34,
+      "minecraft:oak_boat": 6,
+      "minecraft:sunflower": 1,
+      "minecraft:white_wool": 17,
+      "minecraft:sugar_cane": 136,
+      "minecraft:leather": 12,
+      "minecraft:crafting_table": 4,
+      "minecraft:bread": 19,
+      "minecraft:pink_tulip": 1,
+      "minecraft:beef": 24,
+      "minecraft:rotten_flesh": 1,
+      "minecraft:leaf_litter": 1,
+      "minecraft:coal": 33,
+      "minecraft:oak_log": 4,
+      "minecraft:wheat_seeds": 7,
+      "minecraft:wheat": 3,
+      "minecraft:mutton": 28
+    },
+    "minecraft:mined": {
+      "minecraft:tall_grass": 4,
+      "minecraft:lime_bed": 1,
+      "minecraft:azalea_leaves": 1,
+      "minecraft:coal_ore": 33,
+      "minecraft:wheat": 3,
+      "minecraft:sugar_cane": 59,
+      "minecraft:sunflower": 1,
+      "minecraft:short_grass": 4,
+      "minecraft:pink_tulip": 1,
+      "minecraft:crafting_table": 4,
+      "minecraft:leaf_litter": 2,
+      "minecraft:oak_log": 4,
+      "minecraft:dead_bush": 57,
+      "minecraft:stone": 34
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 61,
+      "minecraft:wooden_axe": 5,
+      "minecraft:crafting_table": 3,
+      "minecraft:golden_sword": 3,
+      "minecraft:golden_helmet": 1,
+      "minecraft:wooden_pickaxe": 3,
+      "minecraft:stone_pickaxe": 64,
+      "minecraft:bread": 20,
+      "minecraft:oak_boat": 6
+    },
+    "minecraft:crafted": {
+      "minecraft:wooden_axe": 1,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:oak_boat": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:oak_planks": 16,
+      "minecraft:bread": 3,
+      "minecraft:stone_pickaxe": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:zombie_villager": 1
+    },
+    "minecraft:killed": {
+      "minecraft:pig": 1,
+      "minecraft:sheep": 17,
+      "minecraft:cow": 13
+    },
+    "minecraft:dropped": {
+      "minecraft:rotten_flesh": 1,
+      "minecraft:sugar_cane": 3,
+      "minecraft:sunflower": 1,
+      "minecraft:wooden_axe": 1,
+      "minecraft:pink_tulip": 1,
+      "minecraft:wooden_pickaxe": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 5,
+      "minecraft:time_since_rest": 58740,
+      "minecraft:walk_one_cm": 104829,
+      "minecraft:walk_under_water_one_cm": 2139,
+      "minecraft:mob_kills": 31,
+      "minecraft:damage_taken": 1009,
+      "minecraft:boat_one_cm": 249567,
+      "minecraft:play_time": 71146,
+      "minecraft:damage_dealt": 3227,
+      "minecraft:jump": 3016,
+      "minecraft:time_since_death": 58716,
+      "minecraft:drop": 6,
+      "minecraft:bell_ring": 2,
+      "minecraft:sprint_one_cm": 248286,
+      "minecraft:open_chest": 3,
+      "minecraft:fall_one_cm": 110037,
+      "minecraft:total_world_time": 71146,
+      "minecraft:swim_one_cm": 43925,
+      "minecraft:fly_one_cm": 754505,
+      "minecraft:walk_on_water_one_cm": 11266,
+      "minecraft:crouch_one_cm": 2258,
+      "minecraft:sneak_time": 2326,
+      "minecraft:deaths": 2
+    }
+  },
+  "DataVersion": 4790
+}

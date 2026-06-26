@@ -1,0 +1,57 @@
+[22:49:16] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.3+9-2-24.04.2-Ubuntu; Ubuntu null) on Linux 6.8.0-1052-azure (amd64)
+[22:49:16] [ServerMain/INFO]: [bootstrap] Loading Paper 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) for Minecraft 26.1.2
+[22:49:16] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:49:17] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[22:49:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[22:49:24] [ServerMain/INFO]: Found non-pack entry './world/datapacks/gm4_double_doors_26_1.rar', ignoring
+[22:49:24] [ServerMain/INFO]: Found non-pack entry './world/datapacks/Not Too Expensive [v1.0] [MC1.20.5].rar', ignoring
+[22:49:26] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element more_mob_heads:entities/shulker of type minecraft:loot_table
+[22:49:26] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/player@minecraft:loot_table}.pools[1].entries[0]: Missing element player_heads:entities/player of type minecraft:loot_table
+[22:49:28] [ServerMain/INFO]: Loaded 1553 recipes
+[22:49:28] [ServerMain/INFO]: Loaded 1667 advancements
+[22:49:28] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[22:49:28] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 513.4ms
+[22:49:28] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[22:49:28] [Server thread/INFO]: Loading properties
+[22:49:29] [Server thread/INFO]: This server is running Paper version 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) (Implementing API version 26.1.2.build.60-stable)
+[22:49:29] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:49:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:49:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:49:30] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[22:49:30] [Server thread/INFO]: Default game type: SURVIVAL
+[22:49:30] [Server thread/INFO]: Generating keypair
+[22:49:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:49:31] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:49:31] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[22:49:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:49:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:49:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:49:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:49:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:49:31] [Server thread/INFO]: Preparing level "world"
+[22:49:32] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[22:49:32] [Server thread/INFO]: Prepared spawn area in 1 ms
+[22:49:32] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[22:49:32] [Server thread/INFO]: Prepared spawn area in 3 ms
+[22:49:32] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[22:49:32] [Server thread/INFO]: Prepared spawn area in 4 ms
+[22:49:32] [Server thread/INFO]: Done preparing level "world" (0.740s)
+[22:49:32] [Server thread/INFO]: [spark] Starting background profiler...
+[22:49:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:49:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:49:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:49:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:49:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:49:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:49:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:49:33] [Server thread/INFO]: Running delayed init tasks
+[22:49:33] [Server thread/INFO]: Done (19.671s)! For help, type "help"
+[22:49:34] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 12 build(s) behind ***
+[22:49:34] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[22:49:44] [User Authenticator #0/INFO]: UUID of player Malon is cd9fae45-2e4b-3001-b4d1-9c914af16edd
+[22:49:48] [Server thread/INFO]: Malon joined the game
+[22:49:48] [Server thread/INFO]: Malon[/100.125.117.39:53659] logged in with entity id 4 at ([minecraft:overworld]-373.8078079870503, 66.1212968405392, -493.9846491420647)
+[22:53:41] [Server thread/INFO]: Malon hit the ground too hard
+[23:09:09] [Server thread/INFO]: Malon was shot by Skeleton
+[23:09:20] [Server thread/INFO]: Malon was shot by Skeleton
+[23:09:34] [Server thread/INFO]: Malon was shot by Skeleton
